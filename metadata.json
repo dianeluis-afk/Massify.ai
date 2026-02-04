@@ -1,0 +1,8 @@
+{
+  "name": "Massify.ai - The Smartest Start for Non-Technical Founders",
+  "description": "We build prototypes, MVPs, and V1 websites for founders who want to focus on their business, not their tools. Marketer-led builds for validation and clarity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
